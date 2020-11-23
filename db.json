@@ -10,5 +10,43 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "release_history": [
+    {
+      "id": 1,
+      "time": "2020-11-22:12-22-22",
+      "rollout": [
+        {
+          "name": "chromecast 2.0.1",
+          "percentage": 10
+        },
+        {
+          "name": "chromecast 2.2.1",
+          "percentage": 30
+        },
+        {
+          "name": "chromecast 3.0.1",
+          "percentage": 60
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "time": "2020-11-22:13-22-22",
+      "rollout": [
+        {
+          "name": "chromecast 2.0.1",
+          "percentage": 14
+        },
+        {
+          "name": "chromecast 2.2.1",
+          "percentage": 26
+        },
+        {
+          "name": "chromecast 3.0.1",
+          "percentage": 60
+        }
+      ]
+    }
+  ]
 }
